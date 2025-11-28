@@ -10,9 +10,6 @@
   <!-- Project Status -->
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Project Status">
 
-  <!-- License (MIT by default – change if needed) -->
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="MIT License">
-
   <!-- Contributions Welcome -->
   <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square" alt="Contributions Welcome">
 
