@@ -1,5 +1,8 @@
+<!-- Cyberpunk Hacker Banner -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="CyberVets Python Banner">
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/CyberVet_Cyberpunk_Banner.png" 
+       alt="CyberVets Cyberpunk Banner" 
+       style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
